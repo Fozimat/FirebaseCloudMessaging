@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "257437464904",
+    "project_id": "fir-cloudmessaging-f8f01",
+    "storage_bucket": "fir-cloudmessaging-f8f01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257437464904:android:3d082ec924b16569c89b7d",
+        "android_client_info": {
+          "package_name": "com.fozimat.firebasecloudmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257437464904-n1kig5bn657be9qcndth8n1buc1j9ovj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4umIqnH12KKMZERKm4jQuDLUJ2uPZLKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257437464904-n1kig5bn657be9qcndth8n1buc1j9ovj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
